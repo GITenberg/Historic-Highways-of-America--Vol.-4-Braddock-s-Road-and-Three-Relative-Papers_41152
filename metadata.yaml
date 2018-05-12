@@ -1,0 +1,31 @@
+_repo: Historic-Highways-of-America--Vol.-4-Braddock-s-Road-and-Three-Relative-Papers_41152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41152'
+  lccn: 03007189
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 4
+subjects:
+- !lcsh 'Roads -- United States'
+- !lcc 'E151'
+- !lcc 'HE'
+- !lcsh 'Braddock''s Campaign, 1755'
+- !lcsh 'United States Highway 40'
+title: Braddock's Road and Three Relative Papers
+url: http://www.gutenberg.org/ebooks/41152
